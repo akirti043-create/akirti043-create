@@ -3,7 +3,7 @@
 ### Biotechnology Student \| Data Analytics \| Bioinformatics \| Machine Learning
 
 [Email](mailto:akirti043@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kirti-arya-56451135b?utm_source=share_via&utm_content=profile&utm_medium=member_ios) •
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://kirti-arya.netlify.app/)
 
 ------------------------------------------------------------------------
 
